@@ -1,7 +1,7 @@
 {
   "name": "shetab-icons",
   "private": false,
-  "version": "1.110.0",
+  "version": "1.111.0",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
