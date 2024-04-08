@@ -1,13 +1,14 @@
 {
   "name": "shetab-icons",
   "private": false,
-  "version": "1.109.0",
+  "version": "1.109.1",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
+      "types": "./dist/index.d.ts",
       "import": "./dist/index.es.js",
       "require": "./dist/index.umd.js"
     }
